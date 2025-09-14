@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm [Kuvonchbek]  
 
-<!--
-**Kuvonchbek21/Kuvonchbek21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Science enthusiast**   
+I help businesses and individuals with:  
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis  
+- Data visualization and dashboards  
+- Machine learning models for prediction and classification  
 
-Here are some ideas to get you started:
+##  Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Machine Learning (Scikit-learn)   
+- Data Visualization 
+- SQL 
+- Exel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+##  Example Projects
+- **Customer Segmentation Analysis** – understanding customer groups from sales data  
+- **House Price Prediction** – predicting housing prices using ML regression  
+- **E-commerce Data Analysis** – sales and customer behavior insights  
+
+*(More projects available in my repositories )* 
+
+
+##  Let's Work Together
+If you need help with **data analysis, visualization, or building ML models**, feel free to reach out.  
+
+**Contact me:**  
+- Email: begimqulovquvonchbek53@gmail.com  
+- LinkedIn: [Kuvonchbek Begimkulov](https://linkedin.com/in/kuvonchbek-begimkulov)
