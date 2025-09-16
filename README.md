@@ -17,6 +17,7 @@ I help businesses and individuals with:
 
 
 ##  Example Projects
+- **Churn Customers**
 - **Customer Segmentation Analysis** – understanding customer groups from sales data  
 - **House Price Prediction** – predicting housing prices using ML regression  
 - **E-commerce Data Analysis** – sales and customer behavior insights  
