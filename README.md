@@ -1,4 +1,4 @@
-# Hi, I'm [Kuvonchbek]  
+# Hi, I'm Kuvonchbek 
 
 I'm a **Data Science enthusiast**   
 I help businesses and individuals with:  
